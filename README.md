@@ -14,7 +14,7 @@ Escriba una función llamada conservarPrimos que reciba como parámetro de entra
 []
 ```
 
-## Ejercicio 2. Valor 20 puntos.
+## Ejercicio 2. Valor 10 puntos.
 Escriba una función sumaImparesPares (lista1 , lista2) que reciba dos lista de números, y retorne una lista que contenga la suma de las posiciones pares de las dos listas de la misma manera con las posiciones impares. No puede usar len (), solo puede recorrer la lista una vez. La función debe comportarse de la siguiente manera:
 
 ```python
@@ -26,7 +26,7 @@ Escriba una función sumaImparesPares (lista1 , lista2) que reciba dos lista de 
  "Error: segundo argumento debe ser entero"
  ```
 
-## Ejercicio 3. Valor 20 puntos.
+## Ejercicio 3. Valor 10 puntos.
 Escriba una función llamada convertirBase que reciba como parámetro de entrada una lista con diferentes elementos y otros 2 parámetros que son la base de origen y de destino que dicta a hacia donde hacer la conversión. Hacer uso de la recursión y evitar funciones built-in.
 
 ```python
